@@ -1,0 +1,41 @@
+button{
+ padding:10px 30px;
+ outline: none;
+ background: brown;
+ color: white;
+ font-weight: bold;
+ font-size: 20px;
+ border: none;
+ margin-left: 5px;
+ 
+}
+button:hover{
+    cursor: pointer;
+
+}
+
+ul li{
+    list-style: none;
+    display: flex;
+    justify-content:space-between;
+    width: 400px;
+    align-items: center;
+    color:black;
+    font-weight: bold;
+    margin-top: 5px;
+    
+}
+
+.buttons{
+    width: 50%;
+    display: flex;
+    justify-content: flex
+}
+
+@media (max-width:500px){
+ 
+    li{
+        width: 300px;
+    }
+
+}
