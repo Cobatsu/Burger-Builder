@@ -1,3 +1,3 @@
 # Burger-Builder
 
-My first project I built !  
+This is my first project that I built !  
